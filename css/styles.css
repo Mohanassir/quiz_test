@@ -1,0 +1,23 @@
+h4 {
+  color: darkblue;
+  font-weight: bold;
+  font-family:monospace;
+}
+body {
+  background-color: grey;
+}
+.jumbotron {
+  background-color: skyblue;
+}Answer {
+  border: 2px dashed;
+  padding: 10px;
+  opacity: 0.6;
+}
+h1 {
+  color: darkred;
+  font-weight: bold;
+}
+.jumbotron {
+  background-image: url("img/js1.jpeg");
+  background-size: cover;
+}
