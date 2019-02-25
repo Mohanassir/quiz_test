@@ -1,6 +1,6 @@
 $(document).ready(function(){
  $("input[type='button']").click(function(event){
-  var queryone = parseInt($("input[name='quesone']:checked").val());
+  var queryone =  parseInt($("input[name='quesone']:checked").val());
   var querytwo = parseInt($("input[name='questwo']:checked").val());
   var querythree = parseInt($("input[name='questhree']:checked").val());
   var queryfour = parseInt($("input[name='quesfour']:checked").val());
