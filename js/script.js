@@ -11,7 +11,7 @@ $(document).ready(function(){
   var querynine = parseInt($("input[name='quesnine']:checked").val());
   var queryten = parseInt($("input[name='questen']:checked").val());
       var questions=[];
-      questions.push(queryone,querytwo,querythree,queryfour,queryfive,querysix,queryseven,queryeight,querynine,queryten);
+       questions.push(queryone,querytwo,querythree,queryfour,queryfive,querysix,queryseven,queryeight,querynine,queryten);
     var total = 0;
     questions.forEach(function(question) {
       total+=question;
