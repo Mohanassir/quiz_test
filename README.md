@@ -13,7 +13,7 @@ This is a web application where students take a javascript online test to test t
 .atom
 .chrome
 
-#### Technologies Used.
+#### Technologies Used. 
 html
 css
 Javascript
